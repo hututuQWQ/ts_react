@@ -1,5 +1,5 @@
-import { RouteObject } from '../interface';
 import Home from './../../views/home/index';
+import { RouteObject } from 'react-router-dom';
 
 const homeRouter: Array<RouteObject> = [
     {
